@@ -1,6 +1,5 @@
 # Author
-Dominic Shore
-
+Shore DOminic
 #Title 
 PEO for adhesive bonding of AA 6060
 
@@ -15,3 +14,7 @@ big graphs
 
 #Acknowledgements
 the acknowledged
+
+#Abstract
+write abstract last
+
