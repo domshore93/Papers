@@ -10,4 +10,5 @@ Alternative to anodising proposed- the use of PEO for preperation of adhesive bo
 #Methodology
 Unipolar Pulsed PEO in novel electrolyte consisting of Sodium fluoride and Potassium Tartrate for producing porous films that promote mechanical adhesion
 
-
+Figures
+big graphs
