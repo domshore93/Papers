@@ -1,16 +1,13 @@
-s# Director
-Kathryn Bigelow
+# Author
+Dominic Shore
 
 #Title 
-Point Break
-
-#Starring 
-Keanu Reaves and Patrick Swayze
+PEO for adhesive bonding of AA 6060
 
 #Introduction
-Keanu Reaves Goes Surfboarding
+Alternative to anodising proposed- the use of PEO for preperation of adhesive bonded aluminum
 
-He isn't actually a surfer dude, he is trying to infultrate a gang of bank robbers called "the dead presidents society"
+#Methodology
+Unipolar Pulsed PEO in novel electrolyte consisting of Sodium fluoride and Potassium Tartrate for producing porous films that promote mechanical adhesion
 
-Johnny Utah
 
